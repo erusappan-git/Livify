@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-gray-100 {
+    min-height: auto; /* or remove excessive padding/margin */
+}
